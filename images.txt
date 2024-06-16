@@ -29,3 +29,4 @@ homeassistant/home-assistant
 jason5ng32/myip
 whyour/qinglong
 womsxd/mihoyo-bbs
+cooderl/wewe-rss-sqlite
