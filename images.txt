@@ -1,9 +1,10 @@
+# 常用运行环境
 nginx
 alpine
 python:alpine3.19
-xhofe/alist:latest
-xiaoyaliu/alist
+1panel/openresty
 
+# 数据库
 mysql:8.0.37
 mariadb:11.4.2
 postgres:16.3-alpine
@@ -12,6 +13,12 @@ phpmyadmin:5.2.1
 mongo:7.0.11
 gvenzl/oracle-xe:11.2.0.2
 
+# 博客建站
+80x86/typecho
+joyqi/typecho:1.2.1-php8.0-apache
+
+xhofe/alist:latest
+xiaoyaliu/alist
 dreamacro/clash-premium
 haishanh/yacd
 louislam/dockge
