@@ -8,7 +8,7 @@ python:alpine3.19
 mysql:8.0.37
 mariadb:11.4.2
 postgres:16.3-alpine
-redis:7.2.5
+redis:alpine
 phpmyadmin:5.2.1
 mongo:7.0.11
 gvenzl/oracle-xe:11.2.0.2
@@ -18,7 +18,7 @@ wordpress:6.5.4
 80x86/typecho
 joyqi/typecho:1.2.1-php8.0-apache
 
-xhofe/alist:latest
+xhofe/alist
 xiaoyaliu/alist
 dreamacro/clash-premium
 haishanh/yacd
@@ -42,3 +42,6 @@ jason5ng32/myip
 whyour/qinglong
 womsxd/mihoyo-bbs
 cooderl/wewe-rss-sqlite
+containrrr/watchtower
+diygod/rsshub
+browserless/chrome
