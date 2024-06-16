@@ -4,7 +4,7 @@ python:alpine3.19
 xhofe/alist:latest
 xiaoyaliu/alist
 
-mysql:8.0.20
+mysql:8.0.37
 postgres:12-alpine
 gvenzl/oracle-xe:11.2.0.2
 
