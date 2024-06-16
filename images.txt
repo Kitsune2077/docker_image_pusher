@@ -14,6 +14,7 @@ mongo:7.0.11
 gvenzl/oracle-xe:11.2.0.2
 
 # 博客建站
+wordpress:6.5.4
 80x86/typecho
 joyqi/typecho:1.2.1-php8.0-apache
 
