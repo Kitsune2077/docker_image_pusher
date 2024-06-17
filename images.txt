@@ -45,3 +45,4 @@ cooderl/wewe-rss-sqlite
 containrrr/watchtower
 diygod/rsshub
 browserless/chrome
+adguard/adguardhome
