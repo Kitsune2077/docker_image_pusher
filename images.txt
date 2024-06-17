@@ -46,3 +46,4 @@ containrrr/watchtower
 diygod/rsshub
 browserless/chrome
 adguard/adguardhome
+gitea/gitea
