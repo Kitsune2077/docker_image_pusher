@@ -47,3 +47,4 @@ diygod/rsshub
 browserless/chrome
 adguard/adguardhome
 gitea/gitea
+niruix/sshwifty
