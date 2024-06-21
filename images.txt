@@ -58,5 +58,5 @@ niruix/sshwifty
 
 # 大模型
 # pytorch/pytorch:2.0.1-cuda11.7-cudnn8-runtime
-registry.cn-hangzhou.aliyuncs.com/fastgpt/bge-rerank-v2-m3:v0.1
+# registry.cn-hangzhou.aliyuncs.com/fastgpt/bge-rerank-v2-m3:v0.1
 xprobe/xinference
