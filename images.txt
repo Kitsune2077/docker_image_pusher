@@ -51,3 +51,8 @@ niruix/sshwifty
 
 # temp use only
 pytorch/pytorch:2.0.1-cuda11.7-cudnn8-runtime
+postgres:15-alpine
+redis:6-alpine
+semitechnologies/weaviate:1.19.0
+langgenius/dify-sandbox:0.2.1
+ubuntu/squid
