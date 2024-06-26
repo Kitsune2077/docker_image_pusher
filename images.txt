@@ -6,6 +6,7 @@ python:alpine3.19
 
 # 数据库
 mysql:8.0.37
+mysql:5.7
 mariadb:11.4.2
 postgres:16.3-alpine
 redis:alpine
