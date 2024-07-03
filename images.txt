@@ -49,6 +49,7 @@ browserless/chrome
 adguard/adguardhome
 gitea/gitea
 niruix/sshwifty
+mikolatero/vlmcsd
 
 # temp use only
 # postgres:15-alpine
