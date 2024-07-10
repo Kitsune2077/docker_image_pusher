@@ -51,6 +51,8 @@ gitea/gitea
 niruix/sshwifty
 mikolatero/vlmcsd
 
+nlippke/seeddms:6.0.25
+
 # temp use only
 # postgres:15-alpine
 # redis:6-alpine
@@ -61,4 +63,4 @@ mikolatero/vlmcsd
 # 大模型
 # pytorch/pytorch:2.0.1-cuda11.7-cudnn8-runtime
 # registry.cn-hangzhou.aliyuncs.com/fastgpt/bge-rerank-v2-m3:v0.1
-xprobe/xinference
+# xprobe/xinference
