@@ -51,6 +51,7 @@ gitea/gitea
 niruix/sshwifty
 mikolatero/vlmcsd
 
+usteinm/seeddms
 nlippke/seeddms:6.0.25
 
 # temp use only
