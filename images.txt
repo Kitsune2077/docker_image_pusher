@@ -3,6 +3,7 @@ nginx
 alpine
 python:alpine3.19
 1panel/openresty
+bitnami/kafka:3.8
 
 # 数据库
 mysql:8.0.37
@@ -13,6 +14,7 @@ redis:alpine
 phpmyadmin:5.2.1
 mongo:7.0.11
 gvenzl/oracle-xe:11.2.0.2
+minio/minio
 
 # 博客建站
 wordpress:6.5.4
@@ -28,6 +30,7 @@ louislam/uptime-kuma
 idootop/mi-gpt
 justsong/one-api
 junlongzzz/yesplaymusic
+imsyy/splayer
 johngong/qbittorrent
 estrellaxd/auto_bangumi
 yidadaa/chatgpt-next-web
@@ -50,9 +53,11 @@ adguard/adguardhome
 gitea/gitea
 niruix/sshwifty
 mikolatero/vlmcsd
+chaoszhu/easynode
+rook1e404/fusion
 
-usteinm/seeddms
-nlippke/seeddms:6.0.25
+# usteinm/seeddms
+# nlippke/seeddms:6.0.25
 
 # temp use only
 # postgres:15-alpine
