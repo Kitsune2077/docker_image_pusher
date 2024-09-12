@@ -55,6 +55,7 @@ niruix/sshwifty
 mikolatero/vlmcsd
 chaoszhu/easynode
 rook1e404/fusion
+linkease/ddnsto
 
 # usteinm/seeddms
 # nlippke/seeddms:6.0.25
