@@ -3,23 +3,23 @@ nginx
 alpine
 python:alpine3.19
 1panel/openresty
-bitnami/kafka:3.8
+# bitnami/kafka:3.8
 
 # 数据库
-mysql:8.0.37
-mysql:5.7
-mariadb:11.4.2
-postgres:16.3-alpine
+# mysql:8.0.37
+# mysql:5.7
+# mariadb:11.4.2
+# postgres:16.3-alpine
 redis:alpine
-phpmyadmin:5.2.1
-mongo:7.0.11
-oracleinanutshell/oracle-xe-11g
+# phpmyadmin:5.2.1
+# mongo:7.0.11
+# oracleinanutshell/oracle-xe-11g
 minio/minio
 
 # 博客建站
-wordpress:6.5.4
+# wordpress:6.5.4
 80x86/typecho
-joyqi/typecho:1.2.1-php8.0-apache
+# joyqi/typecho:1.2.1-php8.0-apache
 
 # FQ
 # dreamacro/clash-premium
@@ -79,18 +79,18 @@ linkease/ddnsto
 
 
 # arm64镜像
---platform=linux/arm64 louislam/dockge
---platform=linux/arm64 louislam/uptime-kuma
---platform=linux/arm64 xhofe/alist
---platform=linux/arm64 xiaoyaliu/alist
---platform=linux/arm64 justsong/one-api
---platform=linux/arm64 yidadaa/chatgpt-next-web
---platform=linux/arm64 whyour/qinglong
---platform=linux/arm64 fogforest/yesplaymusic
---platform=linux/arm64 mikolatero/vlmcsd
---platform=linux/arm64 containrrr/watchtower
+# --platform=linux/arm64 louislam/dockge
+# --platform=linux/arm64 louislam/uptime-kuma
+# --platform=linux/arm64 xhofe/alist
+# --platform=linux/arm64 xiaoyaliu/alist
+# --platform=linux/arm64 justsong/one-api
+# --platform=linux/arm64 yidadaa/chatgpt-next-web
+# --platform=linux/arm64 whyour/qinglong
+# --platform=linux/arm64 fogforest/yesplaymusic
+# --platform=linux/arm64 mikolatero/vlmcsd
+# --platform=linux/arm64 containrrr/watchtower
 
---platform=linux/arm64 bitnami/kafka:3.8
---platform=linux/arm64 mysql:8.0.37
---platform=linux/arm64 postgres:16.3-alpine
---platform=linux/arm64 mongo:7.0.11
+# --platform=linux/arm64 bitnami/kafka:3.8
+# --platform=linux/arm64 mysql:8.0.37
+# --platform=linux/arm64 postgres:16.3-alpine
+# --platform=linux/arm64 mongo:7.0.11
