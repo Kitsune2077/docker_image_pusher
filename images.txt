@@ -76,3 +76,21 @@ linkease/ddnsto
 # pytorch/pytorch:2.0.1-cuda11.7-cudnn8-runtime
 # registry.cn-hangzhou.aliyuncs.com/fastgpt/bge-rerank-v2-m3:v0.1
 # xprobe/xinference
+
+
+# arm64镜像
+--platform=linux/arm64 louislam/dockge
+--platform=linux/arm64 louislam/uptime-kuma
+--platform=linux/arm64 xhofe/alist
+--platform=linux/arm64 xiaoyaliu/alist
+--platform=linux/arm64 justsong/one-api
+--platform=linux/arm64 yidadaa/chatgpt-next-web
+--platform=linux/arm64 whyour/qinglong
+--platform=linux/arm64 fogforest/yesplaymusic
+--platform=linux/arm64 mikolatero/vlmcsd
+--platform=linux/arm64 containrrr/watchtower
+
+--platform=linux/arm64 bitnami/kafka:3.8
+--platform=linux/arm64 mysql:8.0.37
+--platform=linux/arm64 postgres:16.3-alpine
+--platform=linux/arm64 mongo:7.0.11
