@@ -61,6 +61,7 @@ mikolatero/vlmcsd
 chaoszhu/easynode
 rook1e404/fusion
 linkease/ddnsto
+dnomd343/kms-server
 
 # usteinm/seeddms
 # nlippke/seeddms:6.0.25
