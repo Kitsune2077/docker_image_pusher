@@ -91,6 +91,7 @@ kasmweb/chrome:1.14.0
 --platform=linux/arm64 fogforest/yesplaymusic
 --platform=linux/arm64 mikolatero/vlmcsd
 --platform=linux/arm64 containrrr/watchtower
+--platform=linux/arm64 apache/dolphinscheduler-standalone-server
 
 # --platform=linux/arm64 bitnami/kafka:3.8
 # --platform=linux/arm64 mysql:8.0.37
