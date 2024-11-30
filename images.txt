@@ -27,6 +27,11 @@ minio/minio
 metacubex/mihomo
 ghcr.io/metacubex/metacubexd
 
+--platform=linux/arm64 dreamacro/clash-premium
+--platform=linux/arm64 haishanh/yacd
+--platform=linux/arm64 metacubex/mihomo
+--platform=linux/arm64 mrxianyu/metacubexd-ui
+
 xhofe/alist
 # 小雅
 xiaoyaliu/alist
