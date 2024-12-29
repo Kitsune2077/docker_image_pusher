@@ -48,12 +48,12 @@ homeassistant/home-assistant
 kimi360/homebox
 thedaviddelta/lingva-translate
 whyour/qinglong
+whyour/qinglong:debian
 wukongdaily/box
 wcjiang/reference
 johngong/baidunetdisk
 homeassistant/home-assistant
 jason5ng32/myip
-whyour/qinglong
 womsxd/mihoyo-bbs
 cooderl/wewe-rss-sqlite
 containrrr/watchtower
