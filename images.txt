@@ -35,6 +35,7 @@ ghcr.io/metacubex/metacubexd
 xhofe/alist
 # 小雅
 xiaoyaliu/alist
+haroldli/xiaoya-tvbox
 louislam/dockge
 louislam/uptime-kuma
 idootop/mi-gpt
@@ -91,6 +92,7 @@ dockurr/samba
 --platform=linux/arm64 louislam/uptime-kuma
 --platform=linux/arm64 xhofe/alist
 --platform=linux/arm64 xiaoyaliu/alist
+--platform=linux/arm64 haroldli/xiaoya-tvbox
 --platform=linux/arm64 justsong/one-api
 --platform=linux/arm64 yidadaa/chatgpt-next-web
 --platform=linux/arm64 whyour/qinglong
