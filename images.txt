@@ -94,6 +94,7 @@ dockurr/samba
 --platform=linux/arm64 justsong/one-api
 --platform=linux/arm64 yidadaa/chatgpt-next-web
 --platform=linux/arm64 whyour/qinglong
+--platform=linux/arm64 whyour/qinglong:debian
 --platform=linux/arm64 fogforest/yesplaymusic
 --platform=linux/arm64 mikolatero/vlmcsd
 --platform=linux/arm64 containrrr/watchtower
