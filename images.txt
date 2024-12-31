@@ -3,6 +3,7 @@ nginx
 alpine
 python:alpine3.19
 1panel/openresty
+centos:centos7.9.2009
 # bitnami/kafka:3.8
 
 # 数据库
@@ -89,6 +90,7 @@ hslr/sun-panel
 
 
 # arm64镜像
+--platform=linux/arm64 centos:centos7.9.2009
 --platform=linux/arm64 louislam/dockge
 --platform=linux/arm64 louislam/uptime-kuma
 --platform=linux/arm64 xhofe/alist
