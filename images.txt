@@ -54,7 +54,6 @@ whyour/qinglong:debian
 wukongdaily/box
 wcjiang/reference
 johngong/baidunetdisk
-homeassistant/home-assistant
 jason5ng32/myip
 womsxd/mihoyo-bbs
 cooderl/wewe-rss-sqlite
@@ -91,6 +90,7 @@ hslr/sun-panel
 
 # arm64镜像
 --platform=linux/arm64 centos:centos7.9.2009
+--platform=linux/arm64 homeassistant/home-assistant
 --platform=linux/arm64 louislam/dockge
 --platform=linux/arm64 louislam/uptime-kuma
 --platform=linux/arm64 xhofe/alist
