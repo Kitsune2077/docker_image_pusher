@@ -2,8 +2,9 @@
 nginx
 alpine
 python:alpine3.19
+continuumio/miniconda3
 1panel/openresty
-centos:centos7.9.2009
+# centos:centos7.9.2009
 # bitnami/kafka:3.8
 
 # 数据库
