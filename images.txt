@@ -72,6 +72,8 @@ dnomd343/kms-server
 dockurr/samba
 hslr/sun-panel
 stirlingtools/stirling-pdf
+guovern/iptv-api
+guovern/iptv-api:lite
 # kasmweb/chrome:1.14.0
 
 # usteinm/seeddms
@@ -109,6 +111,8 @@ stirlingtools/stirling-pdf
 --platform=linux/arm64 dockurr/samba
 --platform=linux/arm64 hslr/sun-panel
 --platform=linux/arm64 stirlingtools/stirling-pdf
+--platform=linux/arm64 guovern/iptv-api
+--platform=linux/arm64 guovern/iptv-api:lite
 
 # --platform=linux/arm64 bitnami/kafka:3.8
 # --platform=linux/arm64 mysql:8.0.37
