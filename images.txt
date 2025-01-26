@@ -76,6 +76,7 @@ guovern/iptv-api
 guovern/iptv-api:lite
 emqx/emqx
 myservers/my_servers
+zhayujie/chatgpt-on-wechat
 # kasmweb/chrome:1.14.0
 
 # usteinm/seeddms
