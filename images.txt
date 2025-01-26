@@ -73,10 +73,10 @@ dockurr/samba
 hslr/sun-panel
 stirlingtools/stirling-pdf
 guovern/iptv-api
-guovern/iptv-api:lite
 emqx/emqx
 myservers/my_servers
 zhayujie/chatgpt-on-wechat
+doubebly/doube-itv
 # kasmweb/chrome:1.14.0
 
 # usteinm/seeddms
@@ -115,9 +115,9 @@ zhayujie/chatgpt-on-wechat
 --platform=linux/arm64 hslr/sun-panel
 --platform=linux/arm64 stirlingtools/stirling-pdf
 --platform=linux/arm64 guovern/iptv-api
---platform=linux/arm64 guovern/iptv-api:lite
 --platform=linux/arm64 emqx/emqx
 --platform=linux/arm64 myservers/my_servers
+--platform=linux/arm64 doubebly/doube-itv
 
 # --platform=linux/arm64 bitnami/kafka:3.8
 # --platform=linux/arm64 mysql:8.0.37
