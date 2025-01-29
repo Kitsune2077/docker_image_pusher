@@ -76,6 +76,7 @@ guovern/iptv-api
 emqx/emqx
 myservers/my_servers
 zhayujie/chatgpt-on-wechat
+cp0204/dkturbo:main
 # kasmweb/chrome:1.14.0
 
 # usteinm/seeddms
@@ -116,6 +117,7 @@ zhayujie/chatgpt-on-wechat
 --platform=linux/arm64 guovern/iptv-api
 --platform=linux/arm64 emqx/emqx
 --platform=linux/arm64 myservers/my_servers
+--platform=linux/arm64 cp0204/dkturbo:main
 
 # --platform=linux/arm64 bitnami/kafka:3.8
 # --platform=linux/arm64 mysql:8.0.37
