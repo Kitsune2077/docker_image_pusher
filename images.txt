@@ -77,6 +77,7 @@ emqx/emqx
 myservers/my_servers
 zhayujie/chatgpt-on-wechat
 cp0204/dkturbo:main
+youshandefeiyang/allinone
 # kasmweb/chrome:1.14.0
 
 # usteinm/seeddms
@@ -118,8 +119,13 @@ cp0204/dkturbo:main
 --platform=linux/arm64 emqx/emqx
 --platform=linux/arm64 myservers/my_servers
 --platform=linux/arm64 cp0204/dkturbo:main
+--platform=linux/arm64 youshandefeiyang/allinone
 
 # --platform=linux/arm64 bitnami/kafka:3.8
 # --platform=linux/arm64 mysql:8.0.37
 # --platform=linux/arm64 postgres:16.3-alpine
 # --platform=linux/arm64 mongo:7.0.11
+
+
+# armv7镜像(玩客云)
+--platform=linux/arm/v7 youshandefeiyang/allinone
