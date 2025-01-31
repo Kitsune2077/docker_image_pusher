@@ -129,3 +129,4 @@ youshandefeiyang/allinone
 
 # armv7镜像(玩客云)
 --platform=linux/arm/v7 youshandefeiyang/allinone
+--platform=linux/arm/v7 homeassistant/home-assistant
