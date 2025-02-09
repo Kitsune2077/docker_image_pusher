@@ -13,6 +13,7 @@ continuumio/miniconda3
 # mariadb:11.4.2
 # postgres:16.3-alpine
 redis:alpine
+redis/redis-stack-server
 # phpmyadmin:5.2.1
 # mongo:7.0.11
 # oracleinanutshell/oracle-xe-11g
