@@ -79,6 +79,7 @@ myservers/my_servers
 zhayujie/chatgpt-on-wechat
 cp0204/dkturbo:main
 youshandefeiyang/allinone
+rockchin/langbot
 # kasmweb/chrome:1.14.0
 
 # usteinm/seeddms
