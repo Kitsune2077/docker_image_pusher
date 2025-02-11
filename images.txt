@@ -96,7 +96,7 @@ rockchin/langbot
 # pytorch/pytorch:2.0.1-cuda11.7-cudnn8-runtime
 # registry.cn-hangzhou.aliyuncs.com/fastgpt/bge-rerank-v2-m3:v0.1
 # xprobe/xinference
-
+tpoisonooo/huixiangdou:20240814
 
 # arm64镜像
 --platform=linux/arm64 centos:centos7.9.2009
