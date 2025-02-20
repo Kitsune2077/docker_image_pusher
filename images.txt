@@ -80,6 +80,7 @@ zhayujie/chatgpt-on-wechat
 cp0204/dkturbo:main
 youshandefeiyang/allinone
 rockchin/langbot
+lmk123/migpt-server
 # kasmweb/chrome:1.14.0
 
 # usteinm/seeddms
