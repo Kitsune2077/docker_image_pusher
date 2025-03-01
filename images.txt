@@ -100,7 +100,8 @@ lmk123/migpt-server
 tpoisonooo/huixiangdou:20240814
 
 # arm64镜像
---platform=linux/arm64 centos:centos7.9.2009
+--platform=linux/arm64 redis/redis-stack-server
+# --platform=linux/arm64 centos:centos7.9.2009
 --platform=linux/arm64 homeassistant/home-assistant
 --platform=linux/arm64 louislam/dockge
 --platform=linux/arm64 louislam/uptime-kuma
@@ -123,6 +124,7 @@ tpoisonooo/huixiangdou:20240814
 --platform=linux/arm64 myservers/my_servers
 --platform=linux/arm64 cp0204/dkturbo:main
 --platform=linux/arm64 youshandefeiyang/allinone
+--platform=linux/arm64 lmk123/migpt-server
 
 # --platform=linux/arm64 bitnami/kafka:3.8
 # --platform=linux/arm64 mysql:8.0.37
