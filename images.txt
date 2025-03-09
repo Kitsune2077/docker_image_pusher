@@ -82,6 +82,8 @@ cp0204/dkturbo:main
 youshandefeiyang/allinone
 rockchin/langbot
 lmk123/migpt-server
+dpanel/dpanel:latest
+dpanel/dpanel:lite
 # kasmweb/chrome:1.14.0
 
 # usteinm/seeddms
@@ -127,6 +129,8 @@ tpoisonooo/huixiangdou:20240814
 --platform=linux/arm64 cp0204/dkturbo:main
 --platform=linux/arm64 youshandefeiyang/allinone
 --platform=linux/arm64 lmk123/migpt-server
+--platform=linux/arm64 dpanel/dpanel:latest
+--platform=linux/arm64 dpanel/dpanel:lite
 
 # --platform=linux/arm64 bitnami/kafka:3.8
 # --platform=linux/arm64 mysql:8.0.37
