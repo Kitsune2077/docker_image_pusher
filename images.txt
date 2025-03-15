@@ -85,11 +85,13 @@ lmk123/migpt-server
 dpanel/dpanel:latest
 dpanel/dpanel:lite
 # kasmweb/chrome:1.14.0
+dadoum/anisette-v3-server
+christld/macless-haystack
 
-# usteinm/seeddms
-# nlippke/seeddms:6.0.25
 
 # temp use only
+# usteinm/seeddms
+# nlippke/seeddms:6.0.25
 # postgres:15-alpine
 # redis:6-alpine
 # semitechnologies/weaviate:1.19.0
