@@ -86,7 +86,7 @@ dpanel/dpanel:latest
 dpanel/dpanel:lite
 # kasmweb/chrome:1.14.0
 dadoum/anisette-v3-server
-christld/macless-haystack
+lovelyelfpop/macless-haystack-gitee
 hoppscotch/hoppscotch
 hoppscotch/proxyscotch
 
