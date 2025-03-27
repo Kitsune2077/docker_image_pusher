@@ -137,6 +137,7 @@ tpoisonooo/huixiangdou:20240814
 --platform=linux/arm64 dpanel/dpanel:lite
 --platform=linux/arm64 hoppscotch/hoppscotch
 --platform=linux/arm64 hoppscotch/proxyscotch
+--platform=linux/arm64 minio/minio
 
 # --platform=linux/arm64 bitnami/kafka:3.8
 # --platform=linux/arm64 mysql:8.0.37
