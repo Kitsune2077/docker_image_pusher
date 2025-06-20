@@ -35,7 +35,6 @@ ghcr.io/metacubex/metacubexd
 --platform=linux/arm64 metacubex/mihomo
 --platform=linux/arm64 mrxianyu/metacubexd-ui
 
-xhofe/alist
 # 小雅
 xiaoyaliu/alist
 haroldli/xiaoya-tvbox
@@ -92,6 +91,8 @@ hoppscotch/proxyscotch
 justma/chatgpt-next-chat
 ghcr.io/sergi0g/cup
 
+openlistteam/openlist
+openlistteam/openlist:latest-aio
 openlistteam/openlist:beta
 openlistteam/openlist:beta-aio
 ghcr.io/openlistteam/openlist-git:beta
@@ -119,7 +120,6 @@ tpoisonooo/huixiangdou:20240814
 --platform=linux/arm64 homeassistant/home-assistant
 --platform=linux/arm64 louislam/dockge
 --platform=linux/arm64 louislam/uptime-kuma
---platform=linux/arm64 xhofe/alist
 --platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/arm64 haroldli/xiaoya-tvbox
 # --platform=linux/arm64 justsong/one-api
@@ -149,6 +149,8 @@ tpoisonooo/huixiangdou:20240814
 --platform=linux/arm64 rockchin/langbot
 --platform=linux/arm64 ghcr.io/sergi0g/cup
 
+--platform=linux/arm64 openlistteam/openlist
+--platform=linux/arm64 openlistteam/openlist:latest-aio
 --platform=linux/arm64 openlistteam/openlist:beta
 --platform=linux/arm64 openlistteam/openlist:beta-aio
 --platform=linux/arm64 ghcr.io/openlistteam/openlist-git:beta
