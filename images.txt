@@ -97,6 +97,7 @@ openlistteam/openlist:beta
 openlistteam/openlist:beta-aio
 ghcr.io/openlistteam/openlist-git:beta
 ghcr.io/openlistteam/openlist-git:beta-aio
+soulter/astrbot
 
 
 # temp use only
@@ -155,6 +156,7 @@ tpoisonooo/huixiangdou:20240814
 --platform=linux/arm64 openlistteam/openlist:beta-aio
 --platform=linux/arm64 ghcr.io/openlistteam/openlist-git:beta
 --platform=linux/arm64 ghcr.io/openlistteam/openlist-git:beta-aio
+--platform=linux/arm64 soulter/astrbot
 
 # --platform=linux/arm64 bitnami/kafka:3.8
 # --platform=linux/arm64 mysql:8.0.37
