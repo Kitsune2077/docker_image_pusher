@@ -90,6 +90,7 @@ hoppscotch/hoppscotch
 hoppscotch/proxyscotch
 justma/chatgpt-next-chat
 ghcr.io/sergi0g/cup
+ghcr.io/huncrys/minio-console
 
 openlistteam/openlist
 openlistteam/openlist:latest-aio
@@ -196,6 +197,7 @@ tpoisonooo/huixiangdou:20240814
 --platform=linux/arm64 justma/chatgpt-next-chat
 --platform=linux/arm64 rockchin/langbot
 --platform=linux/arm64 ghcr.io/sergi0g/cup
+--platform=linux/arm64 ghcr.io/huncrys/minio-console
 
 --platform=linux/arm64 openlistteam/openlist
 --platform=linux/arm64 openlistteam/openlist:latest-aio
