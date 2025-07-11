@@ -92,6 +92,7 @@ hoppscotch/proxyscotch
 justma/chatgpt-next-chat
 ghcr.io/sergi0g/cup
 ghcr.io/huncrys/minio-console
+1panel/maxkb
 
 openlistteam/openlist
 openlistteam/openlist:latest-aio
