@@ -18,6 +18,7 @@ redis/redis-stack-server
 # mongo:7.0.11
 # oracleinanutshell/oracle-xe-11g
 minio/minio
+minio/minio:RELEASE.2025-02-28T09-55-16Z
 
 # 博客建站
 # wordpress:6.5.4
@@ -194,6 +195,7 @@ tpoisonooo/huixiangdou:20240814
 --platform=linux/arm64 hoppscotch/hoppscotch
 --platform=linux/arm64 hoppscotch/proxyscotch
 --platform=linux/arm64 minio/minio
+--platform=linux/arm64 minio/minio:RELEASE.2025-02-28T09-55-16Z
 --platform=linux/arm64 justma/chatgpt-next-chat
 --platform=linux/arm64 rockchin/langbot
 --platform=linux/arm64 ghcr.io/sergi0g/cup
