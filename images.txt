@@ -1,7 +1,7 @@
 # 常用运行环境
 nginx
 alpine
-python:alpine3.19
+# python:alpine3.19
 continuumio/miniconda3
 1panel/openresty
 # centos:centos7.9.2009
@@ -18,7 +18,7 @@ redis/redis-stack-server
 # mongo:7.0.11
 # oracleinanutshell/oracle-xe-11g
 minio/minio
-minio/minio:RELEASE.2025-04-22T22-12-26Z
+# minio/minio:RELEASE.2025-04-22T22-12-26Z
 
 # 博客建站
 # wordpress:6.5.4
@@ -94,7 +94,6 @@ hoppscotch/hoppscotch
 hoppscotch/proxyscotch
 justma/chatgpt-next-chat
 ghcr.io/sergi0g/cup
-ghcr.io/huncrys/minio-console
 1panel/maxkb
 
 openlistteam/openlist
@@ -105,46 +104,47 @@ ghcr.io/openlistteam/openlist-git:beta
 ghcr.io/openlistteam/openlist-git:beta-aio
 soulter/astrbot
 mlikiowa/napcat-docker
+ghcr.io/tbxark/mcp-proxy
 
 # Dify x86_64
 langgenius/dify-api
 langgenius/dify-web
 langgenius/dify-sandbox
 langgenius/dify-plugin-daemon:latest-local
-postgres:15-alpine
-redis:6-alpine
+# postgres:15-alpine
+# redis:6-alpine
 ubuntu/squid:latest
 certbot/certbot
 nginx:latest
-semitechnologies/weaviate:1.19.0
-langgenius/qdrant:v1.7.3
+# semitechnologies/weaviate:1.19.0
+# langgenius/qdrant:v1.7.3
 pgvector/pgvector:pg16
 # vastdata/vastbase-vector
-tensorchord/pgvecto-rs:pg16-v0.3.0
-ghcr.io/chroma-core/chroma:0.5.20
-oceanbase/oceanbase-ce:4.3.5-lts
+# tensorchord/pgvecto-rs:pg16-v0.3.0
+# ghcr.io/chroma-core/chroma:0.5.20
+# oceanbase/oceanbase-ce:4.3.5-lts
 container-registry.oracle.com/database/free:latest
-quay.io/coreos/etcd:v3.5.5
-minio/minio:RELEASE.2023-03-20T20-16-18Z
-milvusdb/milvus:v2.5.0-beta
+# quay.io/coreos/etcd:v3.5.5
+# minio/minio:RELEASE.2023-03-20T20-16-18Z
+# milvusdb/milvus:v2.5.0-beta
 opensearchproject/opensearch:latest
 opensearchproject/opensearch-dashboards:latest
-opengauss/opengauss:7.0.0-RC1
-myscale/myscaledb:1.6.4
-matrixorigin/matrixone:2.1.1
-docker.elastic.co/elasticsearch/elasticsearch:8.14.3
-docker.elastic.co/kibana/kibana:8.14.3
+# opengauss/opengauss:7.0.0-RC1
+# myscale/myscaledb:1.6.4
+# matrixorigin/matrixone:2.1.1
+# docker.elastic.co/elasticsearch/elasticsearch:8.14.3
+# docker.elastic.co/kibana/kibana:8.14.3
 downloads.unstructured.io/unstructured-io/unstructured-api:latest
 
 # FastGPT x86_64
-ghcr.io/labring/fastgpt-sandbox:v4.9.14
-ghcr.io/labring/fastgpt-mcp_server:v4.9.14
-ghcr.io/labring/fastgpt:v4.9.14
-ghcr.io/labring/aiproxy:v0.1.7
-pgvector/pgvector:0.8.0-pg15
-mongo:5.0.18
-mongo:4.4.29
-redis:7.2-alpine
+# ghcr.io/labring/fastgpt-sandbox:v4.9.14
+# ghcr.io/labring/fastgpt-mcp_server:v4.9.14
+# ghcr.io/labring/fastgpt:v4.9.14
+# ghcr.io/labring/aiproxy:v0.1.7
+# pgvector/pgvector:0.8.0-pg15
+# mongo:5.0.18
+# mongo:4.4.29
+# redis:7.2-alpine
 
 
 
@@ -200,11 +200,11 @@ tpoisonooo/huixiangdou:20240814
 --platform=linux/arm64 hoppscotch/hoppscotch
 --platform=linux/arm64 hoppscotch/proxyscotch
 --platform=linux/arm64 minio/minio
---platform=linux/arm64 minio/minio:RELEASE.2025-04-22T22-12-26Z
+#--platform=linux/arm64 minio/minio:RELEASE.2025-04-22T22-12-26Z
 --platform=linux/arm64 justma/chatgpt-next-chat
 --platform=linux/arm64 rockchin/langbot
 --platform=linux/arm64 ghcr.io/sergi0g/cup
---platform=linux/arm64 ghcr.io/huncrys/minio-console
+--platform=linux/arm64 ghcr.io/tbxark/mcp-proxy
 
 --platform=linux/arm64 openlistteam/openlist
 --platform=linux/arm64 openlistteam/openlist:latest-aio
