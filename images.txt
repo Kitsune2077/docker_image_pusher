@@ -42,8 +42,11 @@ haroldli/xiaoya-tvbox
 louislam/dockge
 louislam/uptime-kuma
 idootop/mi-gpt
+
 justsong/one-api
 martialbe/one-api
+calciumion/new-api
+
 junlongzzz/yesplaymusic
 imsyy/splayer
 johngong/qbittorrent
@@ -175,6 +178,7 @@ tpoisonooo/huixiangdou:20240814
 --platform=linux/arm64 haroldli/xiaoya-tvbox
 # --platform=linux/arm64 justsong/one-api
 --platform=linux/arm64 martialbe/one-api
+--platform=linux/arm64 calciumion/new-api
 --platform=linux/arm64 yidadaa/chatgpt-next-web
 --platform=linux/arm64 whyour/qinglong
 --platform=linux/arm64 whyour/qinglong:debian
