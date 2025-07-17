@@ -96,6 +96,7 @@ justma/chatgpt-next-chat
 ghcr.io/sergi0g/cup
 1panel/maxkb
 penninglabs/lxconsole
+moelin/1panel
 
 
 openlistteam/openlist
