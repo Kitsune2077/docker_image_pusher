@@ -98,6 +98,7 @@ ghcr.io/sergi0g/cup
 penninglabs/lxconsole
 moelin/1panel
 wushuo894/ani-rss
+ghcr.io/ptbsare/mcp-proxy-server/mcp-proxy-server:latest
 
 
 openlistteam/openlist
@@ -122,23 +123,23 @@ certbot/certbot
 nginx:latest
 # semitechnologies/weaviate:1.19.0
 # langgenius/qdrant:v1.7.3
-pgvector/pgvector:pg16
+# pgvector/pgvector:pg16
 # vastdata/vastbase-vector
 # tensorchord/pgvecto-rs:pg16-v0.3.0
 # ghcr.io/chroma-core/chroma:0.5.20
 # oceanbase/oceanbase-ce:4.3.5-lts
-container-registry.oracle.com/database/free:latest
+# container-registry.oracle.com/database/free:latest
 # quay.io/coreos/etcd:v3.5.5
 # minio/minio:RELEASE.2023-03-20T20-16-18Z
 # milvusdb/milvus:v2.5.0-beta
-opensearchproject/opensearch:latest
-opensearchproject/opensearch-dashboards:latest
+# opensearchproject/opensearch:latest
+# opensearchproject/opensearch-dashboards:latest
 # opengauss/opengauss:7.0.0-RC1
 # myscale/myscaledb:1.6.4
 # matrixorigin/matrixone:2.1.1
 # docker.elastic.co/elasticsearch/elasticsearch:8.14.3
 # docker.elastic.co/kibana/kibana:8.14.3
-downloads.unstructured.io/unstructured-io/unstructured-api:latest
+# downloads.unstructured.io/unstructured-io/unstructured-api:latest
 
 # FastGPT x86_64
 # ghcr.io/labring/fastgpt-sandbox:v4.9.14
@@ -210,6 +211,9 @@ tpoisonooo/huixiangdou:20240814
 --platform=linux/arm64 ghcr.io/sergi0g/cup
 --platform=linux/arm64 ghcr.io/tbxark/mcp-proxy
 --platform=linux/arm64 wushuo894/ani-rss
+--platform=linux/arm64 soulter/astrbot
+--platform=linux/arm64 mlikiowa/napcat-docker
+--platform=linux/arm64 ghcr.io/ptbsare/mcp-proxy-server/mcp-proxy-server:latest
 
 --platform=linux/arm64 openlistteam/openlist
 --platform=linux/arm64 openlistteam/openlist:latest-aio
@@ -217,8 +221,6 @@ tpoisonooo/huixiangdou:20240814
 --platform=linux/arm64 openlistteam/openlist:beta-aio
 --platform=linux/arm64 ghcr.io/openlistteam/openlist-git:beta
 --platform=linux/arm64 ghcr.io/openlistteam/openlist-git:beta-aio
---platform=linux/arm64 soulter/astrbot
---platform=linux/arm64 mlikiowa/napcat-docker
 
 
 # --platform=linux/arm64 bitnami/kafka:3.8
