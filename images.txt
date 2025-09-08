@@ -100,6 +100,7 @@ moelin/1panel
 wushuo894/ani-rss
 linuxserver/qbittorrent
 ghcr.io/ptbsare/mcp-proxy-server/mcp-proxy-server:latest
+rachelos/we-mp-rss
 
 
 openlistteam/openlist
